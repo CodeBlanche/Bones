@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+
+#MONGO_URL="mongodb://<user>:<pass>@<host>:<port>/<database>" meteor --production
+
+MONGO_URL="mongodb://<user>:<pass>@<host>:<port>/<database>" meteor

@@ -1,0 +1,14 @@
+#
+# Ignore project files
+#
+
+/.idea
+/run
+/smart.lock
+
+#
+# Ignore vendor files
+#
+
+/packages/*
+

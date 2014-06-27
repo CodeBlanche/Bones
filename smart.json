@@ -1,0 +1,9 @@
+{
+  "packages": {
+    "iron-router": {},
+    "iron-router-progress": {},
+    "bootstrap-3": {},
+    "font-awesome": {},
+    "collection2": {}
+  }
+}
