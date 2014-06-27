@@ -5,6 +5,6 @@ A skeleton for meteor projects.
 
 
 Install
-=======
+-------
 
-[Download the zip](https://github.com/CodeBlanche/Bones/archive/master.zip) and extract it to your project directory.
+[Download the ZIP](https://github.com/CodeBlanche/Bones/archive/master.zip) and extract it to your project directory.
